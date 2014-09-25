@@ -1,0 +1,2 @@
+longan-resource-bundle-client
+=============================
